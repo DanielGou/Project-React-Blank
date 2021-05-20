@@ -1,4 +1,4 @@
-## Project React in Blank
+# Project React in Blank
 
 # Getting Started with Create React App
 
